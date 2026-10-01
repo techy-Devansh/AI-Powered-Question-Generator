@@ -1,0 +1,8 @@
+{
+  "name": "EduGen AI - Educational Assessment & Question Platform",
+  "description": "AI-powered educational assessment platform generating diverse multiple-choice, coding, and short-answer questions with instant grading and blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
